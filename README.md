@@ -1,6 +1,7 @@
 
 # Using mod_auth_openidc_libs
-	1. install below pkg: apr-util-1, openldap, expat, apr-1, curl, jansson,pcre2, zlib, cyrus-sasl, libnghttp2, libssh2, krb5-libs, gettext 
+	1. install below pkg: apr-util-1, openldap, expat, apr-1, curl, jansson,pcre2, zlib, 
+ 		cyrus-sasl, libnghttp2, libssh2, krb5-libs, gettext 
 
 	2. Download the mod_auth_openidc.so and libcjose.a and put into some directory like /usr/local
 	3. export the directoy where above file is kept
